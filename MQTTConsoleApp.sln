@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTTConsoleApp", "MQTTConsoleApp\MQTTConsoleApp.csproj", "{60BEC81B-583B-4957-BD91-254301446F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60BEC81B-583B-4957-BD91-254301446F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BEC81B-583B-4957-BD91-254301446F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BEC81B-583B-4957-BD91-254301446F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BEC81B-583B-4957-BD91-254301446F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B347CC79-E73C-42E5-B1C7-B3500E2FEBC2}
+	EndGlobalSection
+EndGlobal
